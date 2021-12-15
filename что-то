@@ -1,0 +1,42 @@
+<html>
+    <title>Алгоритмика</title>
+    <body>
+        <header>
+        </header>
+        <main>
+            <h1>Добро пожаловать в школу программирования "Алгоритмика" <br/> <img src="https://cdn4.zp.ru/job/attaches/2020/12/e2/e4/e2e4b574ea3c1af3e14cc33e18c6a8f4.png"></h1>
+            <p>"Алгоритмика" - самая лучшая международная школа программирования на всей Земле:</p>
+            <p><img src="http://cdn.onlinewebfonts.com/svg/download_37495.png"> 250.000 учеников</p>
+            <p><img src="https://e7.pngegg.com/pngimages/348/980/png-clipart-computer-icons-globe-earth-world-globe-miscellaneous-globe.png"> 55 стран</p>
+            <p><img src="https://i.pinimg.com/originals/b7/88/34/b788346a41a29fc6f62ef3aa1c1352e9.png"> 300 городов</p>
+            <h2>Наши курсы</h2>
+            <p>У нас самые интересные и познавательные курсы для детей от 6 до 17 лет:</p>
+            <p><img src="https://avatars.mds.yandex.net/get-zen_doc/5233501/pub_60e04d615a6af30ab29543eb_60e05328f0ef72344186110b/scale_1200"> Создание веб-сайтов</p>
+            <p><img src="https://clipartcraft.com/images/roblox-logo-transparent-circle-6.png"> Разработка игр на Roblox</p>
+            <p><img src="https://certref.com/cdn/cache/1170x780/image/2019/05/23/182971db49269c757c4ff585daaca36b.jpg"> Программирование на Python</p>
+            <p><img src="https://e7.pngegg.com/pngimages/696/891/png-clipart-scratchjr-computer-programming-thymio-discovery-primary-school-scratch-game-logo.png"> Программирование на Scratch</p>
+            <p><img src="https://img2.freepng.ru/20180526/vgv/kisspng-plus-and-minus-signs-mathematics-mathematical-nota-5b09765bb6df85.4014059015273467797491.jpg"> Математика</p>
+            <h2>Наши преподаватели</h2>
+            <p>Алена Новикова <br/><img src="https://cdn4.zp.ru/job/attaches/2020/12/e2/e4/e2e4b574ea3c1af3e14cc33e18c6a8f4.png"></p>
+            <p>Илон Маск <br/><img src="https://cdn4.zp.ru/job/attaches/2020/12/e2/e4/e2e4b574ea3c1af3e14cc33e18c6a8f4.png"></p>
+            <p>Марк Цукерберг <br/><img src="https://cdn4.zp.ru/job/attaches/2020/12/e2/e4/e2e4b574ea3c1af3e14cc33e18c6a8f4.png"></p>
+            <p>Стив Джобс <br/><img src="https://cdn4.zp.ru/job/attaches/2020/12/e2/e4/e2e4b574ea3c1af3e14cc33e18c6a8f4.png"> </p>
+            <p>Билл Гейтс <br/><img src="https://cdn4.zp.ru/job/attaches/2020/12/e2/e4/e2e4b574ea3c1af3e14cc33e18c6a8f4.png"></p>
+            <h2>Наши ученики</h2>
+            <p>Кузнецов Иван</p>
+            <p>Муравьев Максим</p>
+            <p>Оппенгейм Адам</p>
+            <p>Титова Нина</p>
+            <p>Шеин Павел</p>
+            <p>Шугинина Вероника</p>
+            <p>Ганин Павел</p>
+            <p>Шаухин Иван</p>
+            <h2>Наши фотографии</h2>
+            <img src="https://avatars.mds.yandex.net/get-altay/1886119/2a0000016cc4a449e7c8ab3f563055ceedcb/XXXL">
+            <img src="https://avatars.mds.yandex.net/get-altay/1879929/2a0000016e4085ee42de095d2c89f1d2e334/XXL">
+            <img src="https://avatars.mds.yandex.net/get-altay/965237/2a00000162ab21645ef51d0bfb3e470f4da0/XXL">
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
